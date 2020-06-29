@@ -1,2 +1,2 @@
 # Awale_GameRL
-A reinforcement kearning agent for Awale Game.
+A reinforcement Learning agent for Awale Game.
